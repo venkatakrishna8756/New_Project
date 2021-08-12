@@ -1,0 +1,18 @@
+in git creating new branch at local 
+first u can go to 
+[200~
+=========================HOW TO CREAT AND DELETE BRANCH============
+                         ..............................
+
+#git branch   .........>show total branches and master
+
+#git branch br1 .......> to creat branch (br1)
+
+#git branch  ..........> show total branches and master
+
+#git checkout branch name ...> will movie to the from master to branch(br1 is green colour, before this step master is green colour)
+
+#vi index.html  ........> ti creat index.html file on branch(br1).
+ hello from 
+ git branch
+

@@ -4,4 +4,9 @@ class Simple{
     }  
 } 
 gwuhwgguyegw
-cabcdefghijklmnopqr 
+cabcdefghijklmnopqr
+abcd
+efgh
+ijkl
+mnop
+qrtsuvwxyz 
